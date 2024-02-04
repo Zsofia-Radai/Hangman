@@ -1,2 +1,2 @@
 
-<img width="1228" alt="hangman" src="https://github.com/Zsofia-Radai/Hangman/assets/157364201/2a72bd91-8eea-4584-a2e4-48c980bcb1dd">
+<img width="1242" alt="hangman" src="https://github.com/Zsofia-Radai/Hangman/assets/157364201/c6f1bc40-34b0-4557-96b0-7d97dd1d28a3">
